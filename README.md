@@ -1,4 +1,4 @@
-# CEH-Style Cost & Risk Model (Quickstart, PDR-Calibrated)
+# CEH-Style Cost & Risk Model (PDR Level)
 
 This is a lightweight parametric + probabilistic model aligned with the **NASA CEH 4.0** process:
 - encode **CERs** by subsystem
